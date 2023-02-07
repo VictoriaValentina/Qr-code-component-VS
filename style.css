@@ -33,7 +33,7 @@ section p {
     width: 276px;
     height: 430px;
     background: #FFFFFF;
-    border-radius: 38px;
+    border-radius: 10px;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -46,7 +46,7 @@ section p {
 .qr {
     width: 255px;
     height: 266px;
-    border-radius: 30px;
+    border-radius: 10px;
     margin: 10px;
 }
 
